@@ -9,3 +9,17 @@ To populate the Owner and Source columns, I will:
 2. Use the Queue ID to infer ownership based on interconnection studies.
 3. Assume ownership based on naming conventions and project details where possible.
 4. Fill the Source column with the methodology used (e.g., "Transmission Owner Match," "Queue ID Reference," etc.).
+
+To determine the ownership of generator projects using their Queue IDs, we can follow these steps:
+
+* Identify the Relevant Transmission Operator (ISO/RTO):
+
+** Based on the project's location and transmission owner, determine the associated Independent System Operator (ISO) or Regional Transmission Organization (RTO).
+Access the ISO/RTO Interconnection Queue:
+
+Visit the official website of the identified ISO/RTO.
+Navigate to their generator interconnection queue or project listings.
+Search for the Project Using the Queue ID:
+
+Locate the search function within the interconnection queue page.
+Enter the project's Queue ID to find specific details.
